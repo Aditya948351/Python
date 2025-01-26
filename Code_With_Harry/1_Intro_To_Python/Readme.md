@@ -1,3 +1,5 @@
+<h2>Comments</h2>
+
 Comments can be used to explain Python code.
 
 Comments can be used to make the code more readable.
