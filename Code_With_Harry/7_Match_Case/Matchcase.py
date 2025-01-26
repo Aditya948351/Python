@@ -6,3 +6,6 @@ match x:
         print("0")
     case 1:
         print("1")
+    case _:
+        print("Hello")
+    
