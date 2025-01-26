@@ -11,5 +11,5 @@ print(fruit[-3:-1])
 
 # Quick Quiz:
 # nm = "Harry"
-# print(nm[-4:-2])
+# print(nm[-4:-2])     #OP :  ar
 # @codewithharry
