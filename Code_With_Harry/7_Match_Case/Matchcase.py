@@ -6,6 +6,7 @@ match x:
         print("0")
     case 1:
         print("1")
-    case _:
+    case _ if x=5:
         print("Hello")
-    
+    case _ if x=9:
+        print("World")
