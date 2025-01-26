@@ -162,3 +162,5 @@ print(type(x))
     </tr>
 </table>
 
+
+<h2>now,just see the single Python Numbers </h2>
