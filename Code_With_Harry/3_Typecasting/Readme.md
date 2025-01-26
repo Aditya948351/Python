@@ -1,6 +1,6 @@
 <h2>Typecasting</h2>
 Conversion of one datatype into another is called as typecasting
 <p>
-  Explicit Conversion : 
-  Implicit conversion : 
+  Explicit Conversion : <p>
+  Implicit conversion : <p>
 </p>
