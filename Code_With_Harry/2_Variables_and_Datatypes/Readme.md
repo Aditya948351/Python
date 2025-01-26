@@ -1,3 +1,4 @@
+
 <h2>Example Code with Custom Separator and End</h2>
 <p>Below is an example of using the <code>print</code> function in Python with custom <code>sep</code> and <code>end</code> parameters:</p>
 <pre><code>print("Hey", 6, 7, sep="~", end="009\n")</code></pre>
@@ -164,3 +165,4 @@ print(type(x))
 
 
 <h2>now,just see the single Python Numbers </h2>
+<h2>https://www.w3schools.com/python/python_numbers.asp</h2>
